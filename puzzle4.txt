@@ -1,0 +1,12 @@
+****MULTIPLE CHOICE****
+In the function below, word double before multiply represents what about the function?  
+
+double multiply(double x, double y)
+{
+	return x*y; 
+}
+
+1) The type of return value
+2) The name of the function
+3) The type of parameter variable
+4) The algorithm within the function
